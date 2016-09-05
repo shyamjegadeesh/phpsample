@@ -11,7 +11,7 @@
     <body>
     <p>Git Example</p>
     <?php
-  
+      echo 'sample';
 	?>
     </body>
     </noframes>
