@@ -12,6 +12,8 @@
     <p>Git Example</p>
     <?php
       echo 'sample';
+      
+      echo 'Inital Update';
 	?>
     </body>
     </noframes>
