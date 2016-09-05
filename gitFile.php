@@ -11,7 +11,7 @@
     <body>
     <p>Git Example</p>
     <?php
-      echo 'sample';
+      echo 'sample Project from Git Hub';
       
       echo 'Inital Update';
 	?>
